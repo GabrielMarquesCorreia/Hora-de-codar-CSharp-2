@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\bin\Debug\net8.0\Peso Ideal.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\bin\Debug\net8.0\Peso Ideal.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\bin\Debug\net8.0\Peso Ideal.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\bin\Debug\net8.0\Peso Ideal.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\bin\Debug\net8.0\Peso Ideal.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\refint\Peso Ideal.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\Peso Ideal.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Peso Ideal\Peso Ideal\obj\Debug\net8.0\ref\Peso Ideal.dll
