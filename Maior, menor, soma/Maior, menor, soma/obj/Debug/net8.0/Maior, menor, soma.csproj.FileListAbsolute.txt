@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\bin\Debug\net8.0\Maior, menor, soma.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\bin\Debug\net8.0\Maior, menor, soma.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\bin\Debug\net8.0\Maior, menor, soma.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\bin\Debug\net8.0\Maior, menor, soma.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\bin\Debug\net8.0\Maior, menor, soma.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\refint\Maior, menor, soma.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\Maior, menor, soma.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior, menor, soma\Maior, menor, soma\obj\Debug\net8.0\ref\Maior, menor, soma.dll
