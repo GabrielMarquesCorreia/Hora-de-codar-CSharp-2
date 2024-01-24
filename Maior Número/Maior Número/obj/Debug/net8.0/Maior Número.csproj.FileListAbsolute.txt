@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\bin\Debug\net8.0\Maior Número.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\bin\Debug\net8.0\Maior Número.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\bin\Debug\net8.0\Maior Número.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\bin\Debug\net8.0\Maior Número.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\bin\Debug\net8.0\Maior Número.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\refint\Maior Número.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\Maior Número.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Maior Número\Maior Número\obj\Debug\net8.0\ref\Maior Número.dll
