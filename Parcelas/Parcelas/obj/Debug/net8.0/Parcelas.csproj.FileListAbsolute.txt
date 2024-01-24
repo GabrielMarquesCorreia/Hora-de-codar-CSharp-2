@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\bin\Debug\net8.0\Parcelas.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\bin\Debug\net8.0\Parcelas.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\bin\Debug\net8.0\Parcelas.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\bin\Debug\net8.0\Parcelas.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\bin\Debug\net8.0\Parcelas.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\refint\Parcelas.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\Parcelas.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Parcelas\Parcelas\obj\Debug\net8.0\ref\Parcelas.dll
