@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\bin\Debug\net8.0\Dez Valores.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\bin\Debug\net8.0\Dez Valores.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\bin\Debug\net8.0\Dez Valores.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\bin\Debug\net8.0\Dez Valores.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\bin\Debug\net8.0\Dez Valores.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\refint\Dez Valores.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\Dez Valores.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Dez Valores\Dez Valores\obj\Debug\net8.0\ref\Dez Valores.dll
