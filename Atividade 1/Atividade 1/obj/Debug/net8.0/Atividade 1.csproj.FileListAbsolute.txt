@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\bin\Debug\net8.0\Atividade 1.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\refint\Atividade 1.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\Atividade 1.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Repetições\Atividade 1\Atividade 1\obj\Debug\net8.0\ref\Atividade 1.dll
