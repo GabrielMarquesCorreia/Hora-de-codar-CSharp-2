@@ -1,0 +1,14 @@
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\bin\Debug\net8.0\Corrida.exe
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\bin\Debug\net8.0\Corrida.deps.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\bin\Debug\net8.0\Corrida.runtimeconfig.json
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\bin\Debug\net8.0\Corrida.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\bin\Debug\net8.0\Corrida.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.AssemblyInfoInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.AssemblyInfo.cs
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\refint\Corrida.dll
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.pdb
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\Corrida.genruntimeconfig.cache
+C:\Users\gabriel.correia\Documents\C#\Hora de codar C# - 2\Corrida\Corrida\obj\Debug\net8.0\ref\Corrida.dll
